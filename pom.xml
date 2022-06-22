@@ -19,7 +19,7 @@
         <e-iceblue.version>3.9.4</e-iceblue.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <elasticsearch.version>6.4.3</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <spring.data.elasticsearch.version>3.1.0.RELEASE</spring.data.elasticsearch.version>
         <elastic.job.version>3.0.0-alpha</elastic.job.version>
     </properties>
